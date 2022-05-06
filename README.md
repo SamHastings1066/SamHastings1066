@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamHastings1066
 - 👀 I’m interested in data science, physics, dancehall and stand up comedy.
-- 🌱 I’m currently learning computer vision, and AWS serverless
-- 💞️ I’m looking to collaborate on computer vision or NLP apps, deployed using a serverless architecture
+- 🌱 I’m currently learning more abnout NLP, computer vision and building apps.
+- 💞️ I’m looking to collaborate with anyone interesting in building proof of concept apps to help people.
 - 📫 How to reach me samhastingsis@gmail.com
