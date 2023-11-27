@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @SamHastings1066
-- 👀 I’m interested in machine learning - especially applied to my hobbies: fitness, guitar and salsa/bachata.
-- 🌱 I’m learning more about building mobile apps - mainly iOS apps with Swift+UIKit, but also cross platform with Dart+Flutter.
-- 💞️ I’m building a mobile-app that uses on-device computer vision models to analyse exercises performed in front of a phone's camera. I'm looking to collaborate with anyone interested in joining in!
-- 📫 How to reach me samhastingsis@gmail.com
+- 📱 I'm an iOS Developer with one year's experience developing and deploying apps.
+- 🤖 I have six years prior experience in Data Science and Machine Learning.
+- 👀 I’m interested in building iOS apps that implement machine learning models - especially applied to my hobbies: fitness, guitar and salsa/bachata.
+- 🌱 I am committed to ongoing learning  to improve my skills in mobile app development and machine learning.
+- 💞️ I'm currently looking for work as an iOS Developer. Please get in touch if you know of any opportunities!
+- 📫 Please email me at samhastingsis@gmail.com if you want to chat about or collaborate on any of the above!
