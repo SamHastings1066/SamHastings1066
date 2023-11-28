@@ -4,4 +4,4 @@
 - 👀 I’m interested in building iOS apps that implement machine learning models - especially applied to my hobbies: fitness, guitar and salsa/bachata.
 - 🌱 I am committed to ongoing learning  to improve my skills in mobile app development and machine learning.
 - 💞️ I'm currently looking for work as an iOS Developer. Please get in touch if you know of any opportunities!
-- 📫 Please email me at samhastingsis@gmail.com if you want to chat about or collaborate on any of the above!
+- 📫 Please email me at samhastingsis@gmail.com if you want to chat about, or collaborate on, any of the above!
