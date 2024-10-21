@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamHastings1066.
 - 📱 I'm an iOS Engineer who takes pride in building flexible, maintainable software using Swift.
-- 🤖 I have experience building and delpoying machine learning models.
+- 🤖 I have experience building and deploying machine learning models.
 - 👀 I’m interested in building iOS apps that implement machine learning models - especially applied to my hobbies: fitness, guitar and salsa/bachata.
 - 🌱 I am committed to ongoing learning to improve my skills in mobile app development and machine learning.
 - 💞️ I'm currently looking for work as an iOS Engineer. Please get in touch if you know of any opportunities!
